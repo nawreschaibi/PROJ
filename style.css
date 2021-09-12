@@ -1,0 +1,12 @@
+#website_header{
+    color: blue;
+    font-size:larger;
+    
+}
+.website_header{
+    color: violet;
+    font-size:small;
+}
+li {
+    display: inline;
+  }
